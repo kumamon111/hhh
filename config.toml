@@ -11,7 +11,7 @@ tag = "tags"
 category = "categories"
 
 [params]
-description = "Your description here"
+description = "ここにあなたの全てが詰まっています"
 keywords = ["keyword 1", "keyword 2", "keyword 3"]
 author = ""
 sharingicons = true
