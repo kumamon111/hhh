@@ -1,7 +1,7 @@
 baseurl = "http://hhh-nanpa.ml/"
 languageCode = "en"
 title = "素人ナンパ動画"
-theme = "Hucore"
+theme = "hucore"
 copyright = "&copy; 2017"
 disqusShortname = "shortname"
 googleAnalytics = "trackingcode"
